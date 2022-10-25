@@ -1,0 +1,1 @@
+INSERT INTO alumnos(nombre, apellido, telefono) VALUES("Denny", "Herrera", null)

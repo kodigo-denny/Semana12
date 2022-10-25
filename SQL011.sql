@@ -1,0 +1,1 @@
+UPDATE alumnos SET telefono="7777-7777" WHERE id=7

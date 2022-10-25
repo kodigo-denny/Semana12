@@ -1,0 +1,1 @@
+SELECT * FROM products ORDER BY category ASC, list_price DESC

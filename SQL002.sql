@@ -1,0 +1,1 @@
+select * FROM customers WHERE city='New York' OR city='Seattle'
